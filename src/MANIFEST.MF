@@ -1,0 +1,15 @@
+Manifest-Version: 1.0
+Created-By: Selami
+Main-Class:  
+Class-Path: .
+Name: Logger
+Specification-Title: Open Application Logger
+Specification-Version: 0.0.1
+Specification-Vendor: CodePark
+Licence: GPL v3
+Built-By: Selami
+Build-Jdk: 1.8.0_66
+Implementation-Title: Open Application Logger
+Implementation-Version: 0.0.1
+Implementation-Vendor-Id: Logger
+Implementation-Vendor: CodePark
